@@ -1,6 +1,6 @@
 # KRunner MAC info plugin
 
-![1591926738176](/home/davidhaker/projects/krunner-mac-plugin/assets/1591926738176.png)
+![preview](assets/preview.png)
 
 
 
