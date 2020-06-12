@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MAC info
+Comment=Autostart entry for a Krunner plugin: MAC info
+Keywords=Runner;Krunner
+Categories=Utilities
+Exec=python3.8 "~/.local/lib/krunner-plugins/krunner-mac-plugin/krunner-mac-plugin.py"
+Icon=python
+StartupNotify=true

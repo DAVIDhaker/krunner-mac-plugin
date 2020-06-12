@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=MAC Info
+Comment=Get mac in all formats to copy and detect vendor
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=planetkde
+X-KDE-PluginInfo-Author=DAVIDhaker
+X-KDE-PluginInfo-Email=DAVIDhaker@yandex.ru
+X-KDE-PluginInfo-Name=mac_info
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=DBus
+X-Plasma-DBusRunner-Service=net.test2
+X-Plasma-DBusRunner-Path=/krunner_mac_plugin
+
